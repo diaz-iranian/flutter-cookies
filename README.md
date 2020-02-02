@@ -2,9 +2,6 @@
 
 Code for the screens created with flutter.
 
-Design Credit - https://dribbble.com/shots/6196911-Cookies-app-3/attachments
-
-How do I code this ? - https://youtu.be/5Cq92yQa3Mo
 
 ## Screenshots
 
